@@ -3,3 +3,18 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 nriver/trilium-cn
+hectorqin/reader
+allanpk716/chinesesubfinder
+bpatrik/pigallery2
+zydou/gohttpserver
+ido1990/tailscale-docker
+lovechen/embyserver
+gdy666/lucky
+haroldli/xiaoya-tvbox
+unwenliu/verysync
+kl3x/xunlei
+nyanmisaka/jellyfin
+liwei2633/gopeed
+bpatrik/pigallery2
+soulteary/flare
+luodaoyi/kms-server
