@@ -18,3 +18,4 @@ liwei2633/gopeed
 bpatrik/pigallery2
 soulteary/flare
 luodaoyi/kms-server
+mtphotos/mt-photos
